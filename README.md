@@ -18,4 +18,4 @@ As a beginner, I expect errors — and I learn from them.
   
 - ## Contact
 - Email: writerminhaj@gmail.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/minhajulcodes
