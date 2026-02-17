@@ -1,19 +1,16 @@
 # Python Practice
 
-Learning Python Automation step by step.
+This repository documents my journey of learning Python and automation.
 
-## About Me
-Aspiring Automation Developer | Python | AI | Freelancing
+## About
+I am currently learning Python step by step.
+As a beginner, I expect errors — and I learn from them.
 
-## Skills
-- Python
-- Automation scripts
-- Basic AI
+## Goals
+- Master Python basics
+- Build automation scripts
+- Develop real-world mini projects
 
 ## Projects
-- Project 1: python-loops.ipynb
-
-## Contact
-- Email: writerminhaj@gmail.com
-- LinkedIn:
-https://www.linkedin.com/in/minhajulcodes
+- project 1: python-loops.ipynb
+- Coming soon...
