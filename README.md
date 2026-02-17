@@ -11,7 +11,7 @@ Aspiring Automation Developer | Python | AI | Freelancing
 - Basic AI
 
 ## Projects
-- Project 1: Description
+- Project 1: python-loops.ipynb
 - Project 2: Description
 
 ## Contact
