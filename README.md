@@ -12,7 +12,8 @@ As a beginner, I expect errors — and I learn from them.
 - Develop real-world mini projects
 
 ## Projects
-- project 1: python-loops.ipynb
+- project 1: Python Loops/python-loops.ipynb
+- project 2: Number Checker Program/Number_Checker_Program.ipynb
 - Coming soon...
 
   
