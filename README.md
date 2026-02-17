@@ -12,7 +12,6 @@ Aspiring Automation Developer | Python | AI | Freelancing
 
 ## Projects
 - Project 1: python-loops.ipynb
-- Project 2: Description
 
 ## Contact
 - Email: writerminhaj@gmail.com
