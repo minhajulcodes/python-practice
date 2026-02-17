@@ -14,3 +14,8 @@ As a beginner, I expect errors — and I learn from them.
 ## Projects
 - project 1: python-loops.ipynb
 - Coming soon...
+
+  
+- ## Contact
+- Email: writerminhaj@gmail.com
+- LinkedIn: 
